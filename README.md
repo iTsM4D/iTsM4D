@@ -15,18 +15,17 @@
        alt="snake" /></a>
 </div>
 
-I am an Undergraduate Student
-pursuing my B.Tech from Heritage Institute of Technology, Kolkata
+Internet Systems Student at UNIALFA College
 
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning PHP and JavaScript
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: victormad.dev@gmail.com
-- ⚡ Fun fact: I know how to play a piano
+- ⚡ Fun fact: I know how to play a guitar
 
 <br>
 
