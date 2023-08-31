@@ -19,7 +19,7 @@ Internet Systems Student at UNIALFA College
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/iTsM4D/iTsM4D/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning PHP and JavaScript
@@ -58,7 +58,7 @@ Internet Systems Student at UNIALFA College
 
 ![Victor Mad GitHub stats](https://github-readme-stats.vercel.app/api?username=iTsM4D&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Victor Mad Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTsM4D&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iTsM4D&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 
 
