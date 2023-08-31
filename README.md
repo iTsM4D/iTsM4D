@@ -65,3 +65,5 @@ Internet Systems Student at UNIALFA College
 
 ### Lets connect through:
 <a href="https://www.facebook.com/profile.php?id=100030854869016"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+**<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
